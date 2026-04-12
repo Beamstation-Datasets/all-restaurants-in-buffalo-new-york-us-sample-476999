@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete dataset of all active restaurant listings in Buffalo, New York with a population of over 278k. Filtered by the Restaurants category group, this city-level export covers verified business profiles including ratings, reviews, contact details, and competitive metrics for the local dining market. Refreshed weekly.",
+  "config_name": "All Restaurants in Buffalo, New York, US",
+  "export_job_id": "39ad7534-1d41-4cd0-9f11-34def22d2b34",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 476999,
+  "location_name": "Buffalo",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-buffalo-new-york-us-sample-476999",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/476999/beamstation_476999_restaurants-us-ny_SAMPLE_DIST.csv",
+  "sample_pct": 2.07,
+  "sample_records": 25,
+  "sample_sha256": "17a87bdb7452f1c08da42de1254d27e921a9c3e7d895883519e2480bae483989",
+  "sample_size_bytes": 117168,
+  "total_records": 1209,
+  "updated_at": "2026-03-31T15:56:45.131161+00:00"
+}
