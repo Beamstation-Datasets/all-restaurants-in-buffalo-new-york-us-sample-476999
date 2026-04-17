@@ -1,6 +1,6 @@
 # All Restaurants in Buffalo, New York, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 130 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `476999` |
 | Location | Buffalo |
 | Category | Restaurants |
-| Full dataset size | 1,209 records |
-| Free sample size | 25 records (2.07%) |
-| Last export | 2026-03-31T15:56:45.131161+00:00 |
+| Full dataset size | 1,308 records |
+| Free sample size | 130 records (9.94%) |
+| Last export | 2026-04-14T16:37:17.928675+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-buffalo-new-york-us-sample-476999/releases/download/sample-latest/beamstation_476999_restaurants-us-ny_SAMPLE_DIST.csv) |
 
 ## What is in this sample
