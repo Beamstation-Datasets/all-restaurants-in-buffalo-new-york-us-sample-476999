@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Complete dataset of all active restaurant listings in Buffalo, New York with a population of over 278k. Filtered by the Restaurants category group, this city-level export covers verified business profiles including ratings, reviews, contact details, and competitive metrics for the local dining market. Refreshed weekly.",
   "config_name": "All Restaurants in Buffalo, New York, US",
-  "export_job_id": "8c2dd072-e111-4a86-984a-9ac049d58002",
+  "export_job_id": "eba37740-3c1d-4712-9ac7-884c3feb3aec",
   "github_org": "Beamstation-Datasets",
   "id_short": 476999,
   "location_name": "Buffalo",
   "location_type": "city",
   "repo_name": "all-restaurants-in-buffalo-new-york-us-sample-476999",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/476999/beamstation_476999_restaurants-us-ny_SAMPLE_DIST.csv",
-  "sample_pct": 9.94,
+  "sample_pct": 9.97,
   "sample_records": 130,
-  "sample_sha256": "13598a0ca43462470800969a1c6bb58be3490c8f11f37361c6b712b20e274e4b",
-  "sample_size_bytes": 443433,
-  "total_records": 1308,
-  "updated_at": "2026-04-14T16:37:17.928675+00:00"
+  "sample_sha256": "8a563fc59972cd9613539e164efc61ad5a6d8525837617774c1bc673ab427ee7",
+  "sample_size_bytes": 447030,
+  "total_records": 1304,
+  "updated_at": "2026-04-21T18:07:54.742981+00:00"
 }
