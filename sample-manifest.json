@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8c2dd072-e111-4a86-984a-9ac049d58002",
+  "export_job_id": "eba37740-3c1d-4712-9ac7-884c3feb3aec",
   "id_short": 476999,
-  "published_at": "2026-04-17T19:32:35Z",
+  "published_at": "2026-04-21T19:27:22Z",
   "repo_name": "all-restaurants-in-buffalo-new-york-us-sample-476999",
   "sample_asset_name": "beamstation_476999_restaurants-us-ny_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/476999/beamstation_476999_restaurants-us-ny_SAMPLE_DIST.csv",
   "sample_records": 130,
-  "sample_sha256": "13598a0ca43462470800969a1c6bb58be3490c8f11f37361c6b712b20e274e4b",
-  "sample_size_bytes": 443433,
-  "total_records": 1308
+  "sample_sha256": "8a563fc59972cd9613539e164efc61ad5a6d8525837617774c1bc673ab427ee7",
+  "sample_size_bytes": 447030,
+  "total_records": 1304
 }
